@@ -1,0 +1,2 @@
+C:/Users/olcay/OneDrive/Belgeler/GitHub/example/android/app/.cxx/Debug/5e59256a/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/olcay/OneDrive/Belgeler/GitHub/example/android/app/.cxx/Debug/5e59256a/x86_64/CMakeFiles/rebuild_cache.dir
